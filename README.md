@@ -1,5 +1,5 @@
 What this is
-An online furniture store website template built with vanilla HTML, CSS, and JavaScript. It showcases a furniture e-commerce storefront with product catalog, team introduction, customer testimonials, and contact information. The template is live at https://frosty-brahmagupta-37bb35.netlify.app.
+An online furniture store website template built with vanilla HTML, CSS, and JavaScript. It showcases a furniture e-commerce storefront with product catalog, team introduction, customer testimonials, and contact information.
 
 Stack
 Language(s): HTML, CSS, JavaScript
