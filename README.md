@@ -29,4 +29,3 @@ python3 -m http.server 8000
 
 # Option 3: Using Node's http-server (if installed)
 npx http-server
-The template is already deployed at https://frosty-brahmagupta-37bb35.netlify.app (via Netlify).
